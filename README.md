@@ -1,4 +1,3 @@
-# hello-world
-GH's recommendation
+# personal
 
-I only do what GH tells me
+For all my personal messings
